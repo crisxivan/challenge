@@ -27,5 +27,5 @@ describe('Alerta', () => {
 
     expect(alerta.isLeido).toBeTruthy();
   });
-
+ 
 });

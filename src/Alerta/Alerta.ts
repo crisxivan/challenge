@@ -6,7 +6,7 @@ export class Alerta {
     mensaje :string;
     tema: Tema;
     destinatario: Usuario | null;
-    isLeido: boolean = false;
+    isLeido: boolean = false; 
     fechaExpiracion?: Date;
 
     constructor(tipo: string, mensaje: string, tema: Tema, destinatario: Usuario | null, fechaExpiracion?: Date){

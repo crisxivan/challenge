@@ -27,4 +27,4 @@ console.log("Alertas de Usuario 2:", sistema.getAlertasNoExpiradasUsuario(usuari
 console.log("Alertas de Usuario 3:", sistema.getAlertasNoExpiradasUsuario(usuario3));
 console.log("Alertas de Usuario 4:", sistema.getAlertasNoExpiradasUsuario(usuario4));
 console.log("Alertas de Tema Noticias:", sistema.getAlertasNoExpiradasTema(temaNoticias));
-console.log("Alertas de Tema Deporte:", sistema.getAlertasNoExpiradasTema(temaDeporte));
+console.log("Alertas de Tema Deporte:", sistema.getAlertasNoExpiradasTema(temaDeporte)); 

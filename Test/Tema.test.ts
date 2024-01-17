@@ -5,4 +5,4 @@ describe('Tema', () => {
     const tema = new Tema('Deportes');
     expect(tema.nombre).toBe('Deportes');
   });
-});
+});  

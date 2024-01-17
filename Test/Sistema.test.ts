@@ -18,4 +18,4 @@ describe('SistemaAlertas', () => {
       expect(usuario1.alertas.length).toBe(1);
       expect(usuario2.alertas.length).toBe(0);
     });
-  });
+  }); 
